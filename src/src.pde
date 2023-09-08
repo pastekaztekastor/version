@@ -10,19 +10,15 @@ static enum ViewType {
     Score
 }
 
-Model model;
 Vue vue;
-Controler controler;
 
 void setup() {
 	size(500,500);
-	model = new Model();
 	vue = new Vue();
-	controler = new Controler();
 }
 
 void draw() {
-	vue.drawVue(controler);
+	vue.drawVue();
 }
 
 void keyPressed() {

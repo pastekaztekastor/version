@@ -8,6 +8,8 @@
                                                                        
 */
 public class Vue {
+    Controler controler;
+
     // Define 
     private int sizeTypoH1 = 50;
     private int sizeTypoH2 = 30;
@@ -24,7 +26,6 @@ public class Vue {
     private color colorAlpha             = color(0, 0, 0, 0);        // Alpha
 
     // Variable 
-    
     private ViewType view;
     private PVector pos_Midle;
     private PVector pos_subTitle;
@@ -39,6 +40,7 @@ public class Vue {
     private int x,y;
 
     public Vue () {
+	    controler = new Controler();
         this.view = ViewType.HomePage;
         resize(width, height);
         x = 0;
@@ -180,7 +182,7 @@ ______                       __                  _   _
 |___/ |_|  \__,_| \_/\_/   |_|  \__,_|_| |_|\___|\__|_|\___/|_| |_|___/
 
 */                                                                      
-    public void drawVue(Controler c) {
+    public void drawVue() {
         drawBackGround();
         switch (view) {
             case HomePage : 

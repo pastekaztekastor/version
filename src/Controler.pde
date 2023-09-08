@@ -1,4 +1,6 @@
 public class Controler {
+    Model model;    
+
     int practiceStep;
     int tempStart;
     int tempStop;
@@ -11,8 +13,9 @@ public class Controler {
 
 
     public Controler () {
+	    model = new Model();
         practiceStep = 0;
     }
 
-    public void get
+    // public void get
 }
