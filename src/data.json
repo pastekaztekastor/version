@@ -1,0 +1,1130 @@
+[
+  {
+    "question": "ago",
+    "asked": 0,
+    "translation": "Pousser, mener, faire agir",
+    "mistakes": 0,
+    "latinComplet": "ago, is, ere, agi, actum",
+    "type": "verb"
+  },
+  {
+    "question": "sum",
+    "asked": 0,
+    "translation": "être",
+    "mistakes": 0,
+    "latinComplet": "sum, es, esse, fui",
+    "type": "verb"
+  },
+  {
+    "question": "possum",
+    "asked": 0,
+    "translation": "pouvoir",
+    "mistakes": 0,
+    "latinComplet": "possum, potes, posse, potui",
+    "type": "verb"
+  },
+  {
+    "question": "capio",
+    "asked": 0,
+    "translation": "prendre",
+    "mistakes": 0,
+    "latinComplet": "capio, capis, capere, cepi, captum",
+    "type": "verb"
+  },
+  {
+    "question": "facio",
+    "asked": 0,
+    "translation": "faire",
+    "mistakes": 0,
+    "latinComplet": "facio, facis, facere, feci, factum",
+    "type": "verb"
+  },
+  {
+    "question": "dico",
+    "asked": 0,
+    "translation": "dire",
+    "mistakes": 0,
+    "latinComplet": "dico, dicis, dicere, dixi, dictum",
+    "type": "verb"
+  },
+  {
+    "question": "venio",
+    "asked": 0,
+    "translation": "venir",
+    "mistakes": 0,
+    "latinComplet": "venio, venis, venire, veni, ventum",
+    "type": "verb"
+  },
+  {
+    "question": "ago",
+    "asked": 0,
+    "translation": "pousser, mener, faire agir",
+    "mistakes": 0,
+    "latinComplet": "ago, agis, agere, egi, actum",
+    "type": "verb"
+  },
+  {
+    "question": "scribo",
+    "asked": 0,
+    "translation": "écrire",
+    "mistakes": 0,
+    "latinComplet": "scribo, scribis, scribere, scripsi, scriptum",
+    "type": "verb"
+  },
+  {
+    "question": "fero",
+    "asked": 0,
+    "translation": "porter, supporter",
+    "mistakes": 0,
+    "latinComplet": "fero, fers, ferre, tuli, latum",
+    "type": "verb"
+  },
+  {
+    "question": "facio",
+    "asked": 0,
+    "translation": "faire",
+    "mistakes": 0,
+    "latinComplet": "facio, facis, facere, feci, factum",
+    "type": "verb"
+  },
+  {
+    "question": "amo",
+    "asked": 0,
+    "translation": "aimer",
+    "mistakes": 0,
+    "latinComplet": "amo, amas, amare, amavi, amatum",
+    "type": "verb"
+  },
+  {
+    "question": "cogo",
+    "asked": 0,
+    "translation": "forcer, contraindre",
+    "mistakes": 0,
+    "latinComplet": "cogo, cogis, cogere, coegi, coactum",
+    "type": "verb"
+  },
+  {
+    "question": "facio",
+    "asked": 0,
+    "translation": "faire",
+    "mistakes": 0,
+    "latinComplet": "facio, facis, facere, feci, factum",
+    "type": "verb"
+  },
+  {
+    "question": "capio",
+    "asked": 0,
+    "translation": "prendre",
+    "mistakes": 0,
+    "latinComplet": "capio, capis, capere, cepi, captum",
+    "type": "verb"
+  },
+  {
+    "question": "dico",
+    "asked": 0,
+    "translation": "dire",
+    "mistakes": 0,
+    "latinComplet": "dico, dicis, dicere, dixi, dictum",
+    "type": "verb"
+  },
+  {
+    "question": "venio",
+    "asked": 0,
+    "translation": "venir",
+    "mistakes": 0,
+    "latinComplet": "venio, venis, venire, veni, ventum",
+    "type": "verb"
+  },
+  {
+    "question": "ago",
+    "asked": 0,
+    "translation": "pousser, mener, faire agir",
+    "mistakes": 0,
+    "latinComplet": "ago, agis, agere, egi, actum",
+    "type": "verb"
+  },
+  {
+    "question": "scribo",
+    "asked": 0,
+    "translation": "écrire",
+    "mistakes": 0,
+    "latinComplet": "scribo, scribis, scribere, scripsi, scriptum",
+    "type": "verb"
+  },
+  {
+    "question": "fero",
+    "asked": 0,
+    "translation": "porter, supporter",
+    "mistakes": 0,
+    "latinComplet": "fero, fers, ferre, tuli, latum",
+    "type": "verb"
+  },
+  {
+    "question": "amo",
+    "asked": 0,
+    "translation": "aimer",
+    "mistakes": 0,
+    "latinComplet": "amo, amas, amare, amavi, amatum",
+    "type": "verb"
+  },
+  {
+    "question": "liber",
+    "asked": 1,
+    "translation": "livre",
+    "mistakes": 0,
+    "latinComplet": "liber, libri, m.",
+    "type": "nom"
+  },
+  {
+    "question": "rosa",
+    "asked": 0,
+    "translation": "rose",
+    "mistakes": 0,
+    "latinComplet": "rosa, rosae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "mensa",
+    "asked": 0,
+    "translation": "table",
+    "mistakes": 0,
+    "latinComplet": "mensa, mensae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "puer",
+    "asked": 0,
+    "translation": "garçon",
+    "mistakes": 0,
+    "latinComplet": "puer, pueri, m.",
+    "type": "nom"
+  },
+  {
+    "question": "puella",
+    "asked": 0,
+    "translation": "fille",
+    "mistakes": 0,
+    "latinComplet": "puella, puellae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "dominus",
+    "asked": 0,
+    "translation": "maître",
+    "mistakes": 0,
+    "latinComplet": "dominus, domini, m.",
+    "type": "nom"
+  },
+  {
+    "question": "domina",
+    "asked": 0,
+    "translation": "maîtresse",
+    "mistakes": 0,
+    "latinComplet": "domina, dominae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "ventus",
+    "asked": 1,
+    "translation": "vent",
+    "mistakes": 0,
+    "latinComplet": "ventus, venti, m.",
+    "type": "nom"
+  },
+  {
+    "question": "aqua",
+    "asked": 0,
+    "translation": "eau",
+    "mistakes": 0,
+    "latinComplet": "aqua, aquae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "amicus",
+    "asked": 0,
+    "translation": "ami",
+    "mistakes": 0,
+    "latinComplet": "amicus, amici, m.",
+    "type": "nom"
+  },
+  {
+    "question": "amica",
+    "asked": 0,
+    "translation": "amie",
+    "mistakes": 0,
+    "latinComplet": "amica, amicae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "familia",
+    "asked": 0,
+    "translation": "famille",
+    "mistakes": 0,
+    "latinComplet": "familia, familiae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "templum",
+    "asked": 0,
+    "translation": "temple",
+    "mistakes": 0,
+    "latinComplet": "templum, templi, n.",
+    "type": "nom"
+  },
+  {
+    "question": "via",
+    "asked": 0,
+    "translation": "rue",
+    "mistakes": 0,
+    "latinComplet": "via, viae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "mons",
+    "asked": 0,
+    "translation": "montagne",
+    "mistakes": 0,
+    "latinComplet": "mons, montis, m.",
+    "type": "nom"
+  },
+  {
+    "question": "terra",
+    "asked": 0,
+    "translation": "terre",
+    "mistakes": 0,
+    "latinComplet": "terra, terrae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "templum",
+    "asked": 0,
+    "translation": "temple",
+    "mistakes": 0,
+    "latinComplet": "templum, templi, n.",
+    "type": "nom"
+  },
+  {
+    "question": "oppidum",
+    "asked": 0,
+    "translation": "ville",
+    "mistakes": 0,
+    "latinComplet": "oppidum, oppidi, n.",
+    "type": "nom"
+  },
+  {
+    "question": "insula",
+    "asked": 0,
+    "translation": "île",
+    "mistakes": 0,
+    "latinComplet": "insula, insulae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "luna",
+    "asked": 0,
+    "translation": "lune",
+    "mistakes": 0,
+    "latinComplet": "luna, lunae, f.",
+    "type": "nom"
+  },
+  {
+    "question": "ad",
+    "asked": 0,
+    "translation": "vers, à",
+    "mistakes": 0,
+    "latinComplet": "ad (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "cum",
+    "asked": 0,
+    "translation": "avec",
+    "mistakes": 0,
+    "latinComplet": "cum (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "in",
+    "asked": 0,
+    "translation": "dans, en",
+    "mistakes": 0,
+    "latinComplet": "in (+acc./abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "sub",
+    "asked": 0,
+    "translation": "sous",
+    "mistakes": 0,
+    "latinComplet": "sub (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "pro",
+    "asked": 0,
+    "translation": "pour, en faveur de",
+    "mistakes": 0,
+    "latinComplet": "pro (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "de",
+    "asked": 0,
+    "translation": "de, au sujet de",
+    "mistakes": 0,
+    "latinComplet": "de (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "per",
+    "asked": 0,
+    "translation": "à travers, par",
+    "mistakes": 0,
+    "latinComplet": "per (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "ante",
+    "asked": 0,
+    "translation": "avant",
+    "mistakes": 0,
+    "latinComplet": "ante (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "post",
+    "asked": 0,
+    "translation": "après",
+    "mistakes": 0,
+    "latinComplet": "post (+acc./abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "sine",
+    "asked": 0,
+    "translation": "sans",
+    "mistakes": 0,
+    "latinComplet": "sine (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "cum",
+    "asked": 0,
+    "translation": "avec",
+    "mistakes": 0,
+    "latinComplet": "cum (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "ex",
+    "asked": 1,
+    "translation": "hors de, depuis",
+    "mistakes": 0,
+    "latinComplet": "ex, e (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "propter",
+    "asked": 0,
+    "translation": "à cause de",
+    "mistakes": 0,
+    "latinComplet": "propter (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "super",
+    "asked": 0,
+    "translation": "au-dessus de, sur",
+    "mistakes": 0,
+    "latinComplet": "super (+acc./abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "inter",
+    "asked": 0,
+    "translation": "entre",
+    "mistakes": 0,
+    "latinComplet": "inter (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "circa",
+    "asked": 0,
+    "translation": "autour de",
+    "mistakes": 0,
+    "latinComplet": "circa (+acc./abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "ad",
+    "asked": 0,
+    "translation": "vers, à",
+    "mistakes": 0,
+    "latinComplet": "ad (+acc.)",
+    "type": "preposition"
+  },
+  {
+    "question": "cum",
+    "asked": 0,
+    "translation": "avec",
+    "mistakes": 0,
+    "latinComplet": "cum (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "in",
+    "asked": 0,
+    "translation": "dans, en",
+    "mistakes": 0,
+    "latinComplet": "in (+acc./abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "sub",
+    "asked": 0,
+    "translation": "sous",
+    "mistakes": 0,
+    "latinComplet": "sub (+abl.)",
+    "type": "preposition"
+  },
+  {
+    "question": "bene",
+    "asked": 0,
+    "translation": "bien",
+    "mistakes": 0,
+    "latinComplet": "bene",
+    "type": "adverb"
+  },
+  {
+    "question": "male",
+    "asked": 0,
+    "translation": "mal",
+    "mistakes": 0,
+    "latinComplet": "male",
+    "type": "adverb"
+  },
+  {
+    "question": "fortiter",
+    "asked": 0,
+    "translation": "fortement",
+    "mistakes": 0,
+    "latinComplet": "fortiter",
+    "type": "adverb"
+  },
+  {
+    "question": "velociter",
+    "asked": 0,
+    "translation": "rapidement",
+    "mistakes": 0,
+    "latinComplet": "velociter",
+    "type": "adverb"
+  },
+  {
+    "question": "breviter",
+    "asked": 0,
+    "translation": "brièvement",
+    "mistakes": 0,
+    "latinComplet": "breviter",
+    "type": "adverb"
+  },
+  {
+    "question": "diligenter",
+    "asked": 0,
+    "translation": "diligemment",
+    "mistakes": 0,
+    "latinComplet": "diligenter",
+    "type": "adverb"
+  },
+  {
+    "question": "facile",
+    "asked": 0,
+    "translation": "facilement",
+    "mistakes": 0,
+    "latinComplet": "facile",
+    "type": "adverb"
+  },
+  {
+    "question": "difficile",
+    "asked": 0,
+    "translation": "difficilement",
+    "mistakes": 0,
+    "latinComplet": "difficile",
+    "type": "adverb"
+  },
+  {
+    "question": "paulatim",
+    "asked": 0,
+    "translation": "peu à peu",
+    "mistakes": 0,
+    "latinComplet": "paulatim",
+    "type": "adverb"
+  },
+  {
+    "question": "diu",
+    "asked": 0,
+    "translation": "longtemps",
+    "mistakes": 0,
+    "latinComplet": "diu",
+    "type": "adverb"
+  },
+  {
+    "question": "iterum",
+    "asked": 0,
+    "translation": "encore",
+    "mistakes": 0,
+    "latinComplet": "iterum",
+    "type": "adverb"
+  },
+  {
+    "question": "saepe",
+    "asked": 0,
+    "translation": "souvent",
+    "mistakes": 0,
+    "latinComplet": "saepe",
+    "type": "adverb"
+  },
+  {
+    "question": "nunc",
+    "asked": 0,
+    "translation": "maintenant",
+    "mistakes": 0,
+    "latinComplet": "nunc",
+    "type": "adverb"
+  },
+  {
+    "question": "hodie",
+    "asked": 0,
+    "translation": "aujourd'hui",
+    "mistakes": 0,
+    "latinComplet": "hodie",
+    "type": "adverb"
+  },
+  {
+    "question": "tum",
+    "asked": 0,
+    "translation": "alors",
+    "mistakes": 0,
+    "latinComplet": "tum",
+    "type": "adverb"
+  },
+  {
+    "question": "sic",
+    "asked": 1,
+    "translation": "ainsi",
+    "mistakes": 1,
+    "latinComplet": "sic",
+    "type": "adverb"
+  },
+  {
+    "question": "iam",
+    "asked": 0,
+    "translation": "déjà",
+    "mistakes": 0,
+    "latinComplet": "iam",
+    "type": "adverb"
+  },
+  {
+    "question": "semper",
+    "asked": 0,
+    "translation": "toujours",
+    "mistakes": 0,
+    "latinComplet": "semper",
+    "type": "adverb"
+  },
+  {
+    "question": "nondum",
+    "asked": 0,
+    "translation": "pas encore",
+    "mistakes": 0,
+    "latinComplet": "nondum",
+    "type": "adverb"
+  },
+  {
+    "question": "aliquando",
+    "asked": 0,
+    "translation": "parfois",
+    "mistakes": 0,
+    "latinComplet": "aliquando",
+    "type": "adverb"
+  },
+  {
+    "question": "bonus",
+    "asked": 0,
+    "translation": "bon",
+    "mistakes": 0,
+    "latinComplet": "bonus, bona, bonum",
+    "type": "adjective"
+  },
+  {
+    "question": "malus",
+    "asked": 0,
+    "translation": "mauvais",
+    "mistakes": 0,
+    "latinComplet": "malus, mala, malum",
+    "type": "adjective"
+  },
+  {
+    "question": "magnus",
+    "asked": 0,
+    "translation": "grand",
+    "mistakes": 0,
+    "latinComplet": "magnus, magna, magnum",
+    "type": "adjective"
+  },
+  {
+    "question": "parvus",
+    "asked": 0,
+    "translation": "petit",
+    "mistakes": 0,
+    "latinComplet": "parvus, parva, parvum",
+    "type": "adjective"
+  },
+  {
+    "question": "pulcher",
+    "asked": 0,
+    "translation": "beau",
+    "mistakes": 0,
+    "latinComplet": "pulcher, pulchra, pulchrum",
+    "type": "adjective"
+  },
+  {
+    "question": "fortis",
+    "asked": 0,
+    "translation": "fort",
+    "mistakes": 0,
+    "latinComplet": "fortis, fortis, forte",
+    "type": "adjective"
+  },
+  {
+    "question": "durus",
+    "asked": 0,
+    "translation": "dur",
+    "mistakes": 0,
+    "latinComplet": "durus, dura, durum",
+    "type": "adjective"
+  },
+  {
+    "question": "facilis",
+    "asked": 0,
+    "translation": "facile",
+    "mistakes": 0,
+    "latinComplet": "facilis, facilis, facile",
+    "type": "adjective"
+  },
+  {
+    "question": "difficilis",
+    "asked": 0,
+    "translation": "difficile",
+    "mistakes": 0,
+    "latinComplet": "difficilis, difficilis, difficile",
+    "type": "adjective"
+  },
+  {
+    "question": "multus",
+    "asked": 0,
+    "translation": "beaucoup",
+    "mistakes": 0,
+    "latinComplet": "multus, multa, multum",
+    "type": "adjective"
+  },
+  {
+    "question": "paucus",
+    "asked": 0,
+    "translation": "peu",
+    "mistakes": 0,
+    "latinComplet": "paucus, pauca, paucum",
+    "type": "adjective"
+  },
+  {
+    "question": "sanus",
+    "asked": 0,
+    "translation": "sain",
+    "mistakes": 0,
+    "latinComplet": "sanus, sana, sanum",
+    "type": "adjective"
+  },
+  {
+    "question": "insanus",
+    "asked": 0,
+    "translation": "fou",
+    "mistakes": 0,
+    "latinComplet": "insanus, insana, insanum",
+    "type": "adjective"
+  },
+  {
+    "question": "certus",
+    "asked": 0,
+    "translation": "certain",
+    "mistakes": 0,
+    "latinComplet": "certus, certa, certum",
+    "type": "adjective"
+  },
+  {
+    "question": "incertus",
+    "asked": 0,
+    "translation": "incertain",
+    "mistakes": 0,
+    "latinComplet": "incertus, incerta, incertum",
+    "type": "adjective"
+  },
+  {
+    "question": "latus",
+    "asked": 0,
+    "translation": "large",
+    "mistakes": 0,
+    "latinComplet": "latus, lata, latum",
+    "type": "adjective"
+  },
+  {
+    "question": "angustus",
+    "asked": 0,
+    "translation": "étroit",
+    "mistakes": 0,
+    "latinComplet": "angustus, angusta, angustum",
+    "type": "adjective"
+  },
+  {
+    "question": "altus",
+    "asked": 0,
+    "translation": "haut",
+    "mistakes": 0,
+    "latinComplet": "altus, alta, altum",
+    "type": "adjective"
+  },
+  {
+    "question": "brevi",
+    "asked": 0,
+    "translation": "court",
+    "mistakes": 0,
+    "latinComplet": "brevis, brevis, breve",
+    "type": "adjective"
+  },
+  {
+    "question": "longus",
+    "asked": 0,
+    "translation": "long",
+    "mistakes": 0,
+    "latinComplet": "longus, longa, longum",
+    "type": "adjective"
+  },
+  {
+    "question": "si",
+    "asked": 0,
+    "translation": "si",
+    "mistakes": 0,
+    "latinComplet": "si",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "quia",
+    "asked": 0,
+    "translation": "parce que",
+    "mistakes": 0,
+    "latinComplet": "quia",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ut",
+    "asked": 0,
+    "translation": "que, afin que, pour que",
+    "mistakes": 0,
+    "latinComplet": "ut",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "cum",
+    "asked": 0,
+    "translation": "quand, puisque",
+    "mistakes": 0,
+    "latinComplet": "cum",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "dum",
+    "asked": 0,
+    "translation": "pendant que, tant que",
+    "mistakes": 0,
+    "latinComplet": "dum",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ne",
+    "asked": 0,
+    "translation": "que... ne pas",
+    "mistakes": 0,
+    "latinComplet": "ne",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ut",
+    "asked": 0,
+    "translation": "comme",
+    "mistakes": 0,
+    "latinComplet": "ut",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "quod",
+    "asked": 0,
+    "translation": "parce que, le fait que",
+    "mistakes": 0,
+    "latinComplet": "quod",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "antequam",
+    "asked": 0,
+    "translation": "avant que",
+    "mistakes": 0,
+    "latinComplet": "antequam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "postquam",
+    "asked": 0,
+    "translation": "après que",
+    "mistakes": 0,
+    "latinComplet": "postquam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "quamquam",
+    "asked": 0,
+    "translation": "bien que, quoique",
+    "mistakes": 0,
+    "latinComplet": "quamquam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "si",
+    "asked": 0,
+    "translation": "si",
+    "mistakes": 0,
+    "latinComplet": "si",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "quoniam",
+    "asked": 0,
+    "translation": "puisque, étant donné que",
+    "mistakes": 0,
+    "latinComplet": "quoniam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ut",
+    "asked": 0,
+    "translation": "afin que, pour que",
+    "mistakes": 0,
+    "latinComplet": "ut",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "dum",
+    "asked": 0,
+    "translation": "pendant que, tant que",
+    "mistakes": 0,
+    "latinComplet": "dum",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ne",
+    "asked": 0,
+    "translation": "que... ne pas",
+    "mistakes": 0,
+    "latinComplet": "ne",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "ut",
+    "asked": 0,
+    "translation": "comme",
+    "mistakes": 0,
+    "latinComplet": "ut",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "quod",
+    "asked": 0,
+    "translation": "parce que, le fait que",
+    "mistakes": 0,
+    "latinComplet": "quod",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "antequam",
+    "asked": 0,
+    "translation": "avant que",
+    "mistakes": 0,
+    "latinComplet": "antequam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "postquam",
+    "asked": 0,
+    "translation": "après que",
+    "mistakes": 0,
+    "latinComplet": "postquam",
+    "type": "subordinating_conjunction"
+  },
+  {
+    "question": "et",
+    "asked": 0,
+    "translation": "et",
+    "mistakes": 0,
+    "latinComplet": "et",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "sed",
+    "asked": 0,
+    "translation": "mais",
+    "mistakes": 0,
+    "latinComplet": "sed",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "aut",
+    "asked": 0,
+    "translation": "ou",
+    "mistakes": 0,
+    "latinComplet": "aut",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "vel",
+    "asked": 0,
+    "translation": "ou",
+    "mistakes": 0,
+    "latinComplet": "vel",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "atque",
+    "asked": 0,
+    "translation": "et",
+    "mistakes": 0,
+    "latinComplet": "atque",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "ac",
+    "asked": 0,
+    "translation": "et",
+    "mistakes": 0,
+    "latinComplet": "ac",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "sed",
+    "asked": 0,
+    "translation": "mais",
+    "mistakes": 0,
+    "latinComplet": "sed",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "tamen",
+    "asked": 0,
+    "translation": "cependant",
+    "mistakes": 0,
+    "latinComplet": "tamen",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "igitur",
+    "asked": 0,
+    "translation": "donc",
+    "mistakes": 0,
+    "latinComplet": "igitur",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "itaque",
+    "asked": 0,
+    "translation": "ainsi",
+    "mistakes": 0,
+    "latinComplet": "itaque",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "nam",
+    "asked": 0,
+    "translation": "car",
+    "mistakes": 0,
+    "latinComplet": "nam",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "enim",
+    "asked": 0,
+    "translation": "en effet",
+    "mistakes": 0,
+    "latinComplet": "enim",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "quidem",
+    "asked": 0,
+    "translation": "certes",
+    "mistakes": 0,
+    "latinComplet": "quidem",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "neque",
+    "asked": 0,
+    "translation": "et ne pas",
+    "mistakes": 0,
+    "latinComplet": "neque",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "ita",
+    "asked": 0,
+    "translation": "ainsi",
+    "mistakes": 0,
+    "latinComplet": "ita",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "autem",
+    "asked": 0,
+    "translation": "mais",
+    "mistakes": 0,
+    "latinComplet": "autem",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "vero",
+    "asked": 0,
+    "translation": "vraiment",
+    "mistakes": 0,
+    "latinComplet": "vero",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "igitur",
+    "asked": 0,
+    "translation": "donc",
+    "mistakes": 0,
+    "latinComplet": "igitur",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "namque",
+    "asked": 0,
+    "translation": "en effet",
+    "mistakes": 0,
+    "latinComplet": "namque",
+    "type": "coordinating_conjunction"
+  },
+  {
+    "question": "neque",
+    "asked": 0,
+    "translation": "et ne pas",
+    "mistakes": 0,
+    "latinComplet": "neque",
+    "type": "coordinating_conjunction"
+  }
+]

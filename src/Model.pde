@@ -1,5 +1,5 @@
 public class Model {
-    private String jsonDataPath = "data.json ";
+    private String jsonDataPath = "data2.json";
     
     // Variable de la class
     private JSONArray values;
@@ -24,9 +24,11 @@ public class Model {
         int out = 0;
         for (int i = 0; i < values.size(); i++) {
             JSONObject test = values.getJSONObject(i); 
-            if ((test.getInt("asked")-test.getInt("mistakes"))/test.getInt("asked")<= ratio){
-                index.add(i);
-                out ++;
+            if ( test.getInt("asked") < 0){
+                if ((test.getInt("asked")-test.getInt("mistakes"))/ test.getInt("asked")<= ratio ){
+                    index.add(i);
+                    out ++;
+                }
             }
         }
         return out;
@@ -53,7 +55,9 @@ public class Model {
         int mistakes = test.getInt("mistakes");
         mistakes ++;
         test.setInt("mistakes", mistakes);
-        values.setJSONObject(index.get(i), test);
+        values.getJSONObject(index.get(i), test);
+        saveJSONArray(values, jsonDataPath);
+        values = loadJSONArray(jsonDataPath);
     }
 
     public void setAskedOfIndex (int i){
@@ -62,6 +66,8 @@ public class Model {
         asked ++;
         test.setInt("asked", asked);
         values.setJSONObject(index.get(i), test);
+        saveJSONArray(values, jsonDataPath);
+        values = loadJSONArray(jsonDataPath);
     }
 
 }

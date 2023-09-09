@@ -1,0 +1,1018 @@
+[
+  {
+    "question": "curo",
+    "asked": 0,
+    "translation": "Prendre soin de",
+    "mistakes": 0,
+    "latinComplet": "curo, as ,(are), aui, atum (+Acc)",
+    "type": "verb"
+  },
+  {
+    "question": "praebeo",
+    "asked": 0,
+    "translation": "Fournir",
+    "mistakes": 0,
+    "latinComplet": "praebeo, es, ere, praebeui, praebitum",
+    "type": "verb"
+  },
+  {
+    "question": "do",
+    "asked": 0,
+    "translation": "Donner",
+    "mistakes": 0,
+    "latinComplet": "do, das, dare, dedi, datum",
+    "type": "verb"
+  },
+  {
+    "question": "capio",
+    "asked": 0,
+    "translation": "Prendre",
+    "mistakes": 0,
+    "latinComplet": "capio, capis, capere, cepi, captum",
+    "type": "verb"
+  },
+  {
+    "question": "deleo",
+    "asked": 0,
+    "translation": "Détruire",
+    "mistakes": 0,
+    "latinComplet": "deleo, deles, delere, delevi, deletum",
+    "type": "verb"
+  },
+  {
+    "question": "dico",
+    "asked": 0,
+    "translation": "Dire",
+    "mistakes": 0,
+    "latinComplet": "dico, dicis, dicere, dixi, dictum",
+    "type": "verb"
+  },
+  {
+    "question": "duco",
+    "asked": 0,
+    "translation": "Conduire",
+    "mistakes": 0,
+    "latinComplet": "duco, ducis, ducere, duxi, ductum",
+    "type": "verb"
+  },
+  {
+    "question": "facio",
+    "asked": 0,
+    "translation": "Faire",
+    "mistakes": 0,
+    "latinComplet": "facio, facis, facere, feci, factum",
+    "type": "verb"
+  },
+  {
+    "question": "habeo",
+    "asked": 0,
+    "translation": "Avoir",
+    "mistakes": 0,
+    "latinComplet": "habeo, habes, habere, habui, habitum",
+    "type": "verb"
+  },
+  {
+    "question": "occidio",
+    "asked": 0,
+    "translation": "Tuer",
+    "mistakes": 0,
+    "latinComplet": "occidio, occidis, occidere, occidi, occisum",
+    "type": "verb"
+  },
+  {
+    "question": "possum",
+    "asked": 0,
+    "translation": "Pouvoir",
+    "mistakes": 0,
+    "latinComplet": "possum, potes, posse, potui",
+    "type": "verb"
+  },
+  {
+    "question": "rapio",
+    "asked": 0,
+    "translation": "Saisir",
+    "mistakes": 0,
+    "latinComplet": "rapio, rapis, rapere, rapui, raptum",
+    "type": "verb"
+  },
+  {
+    "question": "venio",
+    "asked": 0,
+    "translation": "Venir",
+    "mistakes": 0,
+    "latinComplet": "venio, venis, venire, veni, ventum",
+    "type": "verb"
+  },
+  {
+    "question": "video",
+    "asked": 0,
+    "translation": "Voir",
+    "mistakes": 0,
+    "latinComplet": "video, vides, videre, vidi, visum",
+    "type": "verb"
+  },
+  {
+    "question": "vinco",
+    "asked": 0,
+    "translation": "Vaincre",
+    "mistakes": 0,
+    "latinComplet": "vinco, vincis, vincere, vici, victum",
+    "type": "verb"
+  },
+  {
+    "question": "accipio",
+    "asked": 0,
+    "translation": "Recevoir",
+    "mistakes": 0,
+    "latinComplet": "accipio, accipis, accipere, accepi, acceptum",
+    "type": "verb"
+  },
+  {
+    "question": "adscipio",
+    "asked": 0,
+    "translation": "Admettre",
+    "mistakes": 0,
+    "latinComplet": "adscipio, adscipis, adscipere, adscipsi, adscriptum",
+    "type": "verb"
+  },
+  {
+    "question": "ago",
+    "asked": 0,
+    "translation": "Agir",
+    "mistakes": 0,
+    "latinComplet": "ago, agis, agere, egi, actum",
+    "type": "verb"
+  },
+  {
+    "question": "audio",
+    "asked": 0,
+    "translation": "Entendre",
+    "mistakes": 0,
+    "latinComplet": "audio, audis, audire, audivi, auditum",
+    "type": "verb"
+  },
+  {
+    "question": "cogito",
+    "asked": 0,
+    "translation": "Réfléchir",
+    "mistakes": 0,
+    "latinComplet": "cogito, cogitas, cogitare, cogitavi, cogitatum",
+    "type": "verb"
+  },
+  {
+    "question": "condo",
+    "asked": 0,
+    "translation": "Fonder",
+    "mistakes": 0,
+    "latinComplet": "condo, condis, condere, condidi, conditum",
+    "type": "verb"
+  },
+  {
+    "question": "credo",
+    "asked": 0,
+    "translation": "Croire",
+    "mistakes": 0,
+    "latinComplet": "credo, credis, credere, credidi, creditum (+D)",
+    "type": "verb"
+  },
+  {
+    "question": "cupio",
+    "asked": 0,
+    "translation": "Désirer",
+    "mistakes": 0,
+    "latinComplet": "cupio, cupis, cupere, cupivi, cupitum",
+    "type": "verb"
+  },
+  {
+    "question": "deligo",
+    "asked": 0,
+    "translation": "Choisir",
+    "mistakes": 0,
+    "latinComplet": "deligo, deligis, deligere, delegi, delectum",
+    "type": "verb"
+  },
+  {
+    "question": "dignus",
+    "asked": 0,
+    "translation": "Digne de",
+    "mistakes": 0,
+    "latinComplet": "dignus, digna, dignum (+Abl)",
+    "type": "verb"
+  },
+  {
+    "question": "diripio",
+    "asked": 0,
+    "translation": "Piller",
+    "mistakes": 0,
+    "latinComplet": "diripio, diripis, diripere, diripui, direptum",
+    "type": "verb"
+  },
+  {
+    "question": "absumo",
+    "asked": 0,
+    "translation": "Dépenser",
+    "mistakes": 0,
+    "latinComplet": "absumo, absumis, absumere, absumpsi, absumptum",
+    "type": "verb"
+  },
+  {
+    "question": "sumo",
+    "asked": 0,
+    "translation": "Prendre",
+    "mistakes": 0,
+    "latinComplet": "sumo, sumis, sumere, sumpsi, sumptum",
+    "type": "verb"
+  },
+  {
+    "question": "abundare",
+    "asked": 0,
+    "translation": "Abonder",
+    "mistakes": 0,
+    "latinComplet": "abundare, abundas, abundare, abundaui, abundatum (+Abl)",
+    "type": "verb"
+  },
+  {
+    "question": "redundare",
+    "asked": 0,
+    "translation": "Rejaillir",
+    "mistakes": 0,
+    "latinComplet": "redundare, redundas, redundare, redundaui, redundatum (+Abl)",
+    "type": "verb"
+  },
+  {
+    "question": "carere",
+    "asked": 0,
+    "translation": "Être privé de",
+    "mistakes": 0,
+    "latinComplet": "carere, cares, carere, carui, caritum (+Abl)",
+    "type": "verb"
+  },
+  {
+    "question": "egere",
+    "asked": 0,
+    "translation": "Avoir besoin de",
+    "mistakes": 0,
+    "latinComplet": "egere, eges, egere, egui, - (+Abl)",
+    "type": "verb"
+  },
+  {
+    "question": "nomen",
+    "asked": 0,
+    "translation": "Nom",
+    "mistakes": 0,
+    "latinComplet": "nomen, nominis, n. (3e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "novitas",
+    "asked": 0,
+    "translation": "Nouveauté",
+    "mistakes": 0,
+    "latinComplet": "novitas, novitatis, f. (3e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "ira",
+    "asked": 0,
+    "translation": "Colère",
+    "mistakes": 0,
+    "latinComplet": "ira, irae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "poeta",
+    "asked": 0,
+    "translation": "Poète",
+    "mistakes": 0,
+    "latinComplet": "poeta, poetae, m. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "silva",
+    "asked": 0,
+    "translation": "Forêt",
+    "mistakes": 0,
+    "latinComplet": "silva, silvae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "consilium",
+    "asked": 0,
+    "translation": "Conseil",
+    "mistakes": 0,
+    "latinComplet": "consilium, consilii, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "praesidium",
+    "asked": 0,
+    "translation": "Protection",
+    "mistakes": 0,
+    "latinComplet": "praesidium, praesidii, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "animus",
+    "asked": 0,
+    "translation": "Esprit",
+    "mistakes": 0,
+    "latinComplet": "animus, animi, m. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "bellum",
+    "asked": 0,
+    "translation": "Guerre",
+    "mistakes": 0,
+    "latinComplet": "bellum, belli, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "equus",
+    "asked": 0,
+    "translation": "Cheval",
+    "mistakes": 0,
+    "latinComplet": "equus, equi, m. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "oppidum",
+    "asked": 0,
+    "translation": "Ville (fortifiée)",
+    "mistakes": 0,
+    "latinComplet": "oppidum, oppidi, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "cura",
+    "asked": 0,
+    "translation": "Soin",
+    "mistakes": 0,
+    "latinComplet": "cura, curae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "fatum",
+    "asked": 0,
+    "translation": "Destin",
+    "mistakes": 0,
+    "latinComplet": "fatum, fati, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "filia",
+    "asked": 0,
+    "translation": "Fille",
+    "mistakes": 0,
+    "latinComplet": "filia, filiae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "filius",
+    "asked": 0,
+    "translation": "Fils",
+    "mistakes": 0,
+    "latinComplet": "filius, filii, m. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "fortuna",
+    "asked": 0,
+    "translation": "Chance, Destin",
+    "mistakes": 0,
+    "latinComplet": "fortuna, fortunae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "fuga",
+    "asked": 0,
+    "translation": "Fuite",
+    "mistakes": 0,
+    "latinComplet": "fuga, fugae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "periculum",
+    "asked": 0,
+    "translation": "Danger",
+    "mistakes": 0,
+    "latinComplet": "periculum, periculi, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "saeuus",
+    "asked": 0,
+    "translation": "Féroce, Cruel",
+    "mistakes": 0,
+    "latinComplet": "saeuus, saeuus, saeuum",
+    "type": "noun"
+  },
+  {
+    "question": "sapientia",
+    "asked": 0,
+    "translation": "Sagesse",
+    "mistakes": 0,
+    "latinComplet": "sapientia, sapientiae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "vera",
+    "asked": 0,
+    "translation": "Vérité",
+    "mistakes": 0,
+    "latinComplet": "vera, veri, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "bonum",
+    "asked": 0,
+    "translation": "Le Bien",
+    "mistakes": 0,
+    "latinComplet": "bonum, boni, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "auxilium",
+    "asked": 0,
+    "translation": "Secours, Aide",
+    "mistakes": 0,
+    "latinComplet": "auxilium, auxilii, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "beneficium",
+    "asked": 0,
+    "translation": "Bienfait",
+    "mistakes": 0,
+    "latinComplet": "beneficium, beneficii, n. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "bonus",
+    "asked": 0,
+    "translation": "Bon",
+    "mistakes": 0,
+    "latinComplet": "bonus, bona, bonum",
+    "type": "noun"
+  },
+  {
+    "question": "melior",
+    "asked": 0,
+    "translation": "Meilleur",
+    "mistakes": 0,
+    "latinComplet": "melior, melius",
+    "type": "noun"
+  },
+  {
+    "question": "optimus",
+    "asked": 0,
+    "translation": "Le Meilleur, Excellent",
+    "mistakes": 0,
+    "latinComplet": "optimus, optima, optimum",
+    "type": "noun"
+  },
+  {
+    "question": "campus",
+    "asked": 0,
+    "translation": "Champ, Plaine",
+    "mistakes": 0,
+    "latinComplet": "campus, campi, m. (2e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "causa",
+    "asked": 0,
+    "translation": "Cause",
+    "mistakes": 0,
+    "latinComplet": "causa, causae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "civis",
+    "asked": 0,
+    "translation": "Citoyen(ne)",
+    "mistakes": 0,
+    "latinComplet": "civis, civis, m/f. (3e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "civitas",
+    "asked": 0,
+    "translation": "Cité, État",
+    "mistakes": 0,
+    "latinComplet": "civitas, civitatis, f. (3e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "avaritia",
+    "asked": 0,
+    "translation": "Avarice",
+    "mistakes": 0,
+    "latinComplet": "avaritia, avaritiae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "divitae",
+    "asked": 0,
+    "translation": "Richesses",
+    "mistakes": 0,
+    "latinComplet": "divitae, divitiarum, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "flamma",
+    "asked": 0,
+    "translation": "Flamme",
+    "mistakes": 0,
+    "latinComplet": "flamma, flammae, f. (1re déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "dux",
+    "asked": 0,
+    "translation": "Chef",
+    "mistakes": 0,
+    "latinComplet": "dux, ducis, m. (3e déclinaison)",
+    "type": "noun"
+  },
+  {
+    "question": "senectus",
+    "asked": 0,
+    "translation": "Vieillesse",
+    "mistakes": 0,
+    "latinComplet": "senectus, senectutis, f. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "repente",
+    "asked": 0,
+    "translation": "Soudainement",
+    "mistakes": 0,
+    "latinComplet": "repente (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "rogo",
+    "asked": 0,
+    "translation": "Demander",
+    "mistakes": 0,
+    "latinComplet": "rogo, rogas, rogare, rogavi, rogatum",
+    "type": "adverb"
+  },
+  {
+    "question": "peregrinus",
+    "asked": 0,
+    "translation": "Étranger (nom.)",
+    "mistakes": 0,
+    "latinComplet": "peregrinus, peregrina, peregrinum",
+    "type": "adverb"
+  },
+  {
+    "question": "perficio",
+    "asked": 0,
+    "translation": "Accomplir",
+    "mistakes": 0,
+    "latinComplet": "perficio, perficis, perficere, perfeci, perfectum",
+    "type": "adverb"
+  },
+  {
+    "question": "perfidius",
+    "asked": 0,
+    "translation": "Trahison",
+    "mistakes": 0,
+    "latinComplet": "perfidius, perfidia, perfidium",
+    "type": "adverb"
+  },
+  {
+    "question": "periculum",
+    "asked": 0,
+    "translation": "Danger",
+    "mistakes": 0,
+    "latinComplet": "periculum, periculi, n. (2e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "lego",
+    "asked": 0,
+    "translation": "Lire",
+    "mistakes": 0,
+    "latinComplet": "lego, legis, legere, legi, lectum",
+    "type": "adverb"
+  },
+  {
+    "question": "honestus",
+    "asked": 0,
+    "translation": "Honorable",
+    "mistakes": 0,
+    "latinComplet": "honestus, honesta, honestum",
+    "type": "adverb"
+  },
+  {
+    "question": "fructus",
+    "asked": 0,
+    "translation": "Fruit",
+    "mistakes": 0,
+    "latinComplet": "fructus, fructus, m. (4e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "facio ut+SUBJ",
+    "asked": 0,
+    "translation": "Faire en sorte que",
+    "mistakes": 0,
+    "latinComplet": "facio ut (+Subj. : ut, utis, m. ou f. ; ut, udis, n.)",
+    "type": "adverb"
+  },
+  {
+    "question": "e",
+    "asked": 0,
+    "translation": "Hors de",
+    "mistakes": 0,
+    "latinComplet": "e (Préposition + Ablatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "ea",
+    "asked": 0,
+    "translation": "Cela, Elle, Ils, Elles (selon le contexte)",
+    "mistakes": 0,
+    "latinComplet": "ea (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "enim",
+    "asked": 0,
+    "translation": "En effet, Car",
+    "mistakes": 0,
+    "latinComplet": "enim (Adverbe de liaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "eo",
+    "asked": 0,
+    "translation": "Aller",
+    "mistakes": 0,
+    "latinComplet": "eo, is, ire, ii, itum",
+    "type": "adverb"
+  },
+  {
+    "question": "eques",
+    "asked": 0,
+    "translation": "Cavalier",
+    "mistakes": 0,
+    "latinComplet": "eques, equitis, m. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "equitatus",
+    "asked": 0,
+    "translation": "Cavalerie",
+    "mistakes": 0,
+    "latinComplet": "equitatus, equitatus, m. (4e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "ergo",
+    "asked": 0,
+    "translation": "Donc, Par conséquent",
+    "mistakes": 0,
+    "latinComplet": "ergo (Adverbe de liaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "excipio",
+    "asked": 0,
+    "translation": "Recevoir",
+    "mistakes": 0,
+    "latinComplet": "excipio, excipis, excipere, excepi, exceptum",
+    "type": "adverb"
+  },
+  {
+    "question": "diligentia",
+    "asked": 0,
+    "translation": "Diligence",
+    "mistakes": 0,
+    "latinComplet": "diligentia, diligentiae, f. (1re déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "diligo",
+    "asked": 0,
+    "translation": "Aimer, Chérir",
+    "mistakes": 0,
+    "latinComplet": "diligo, diligis, diligere, dilexi, dilectum",
+    "type": "adverb"
+  },
+  {
+    "question": "dedo",
+    "asked": 0,
+    "translation": "Abandonner, Livrer",
+    "mistakes": 0,
+    "latinComplet": "dedo, dedis, dedere, dedidi, deditum",
+    "type": "adverb"
+  },
+  {
+    "question": "deduco",
+    "asked": 0,
+    "translation": "Conduire, Amener",
+    "mistakes": 0,
+    "latinComplet": "deduco, deducis, deducere, deduxi, deductum",
+    "type": "adverb"
+  },
+  {
+    "question": "debeo",
+    "asked": 0,
+    "translation": "Devoir, Être tenu de",
+    "mistakes": 0,
+    "latinComplet": "debeo, debes, debere, debui, debitum",
+    "type": "adverb"
+  },
+  {
+    "question": "demum",
+    "asked": 0,
+    "translation": "Enfin, Finalement",
+    "mistakes": 0,
+    "latinComplet": "demum (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "denique",
+    "asked": 0,
+    "translation": "Enfin, Finalement",
+    "mistakes": 0,
+    "latinComplet": "denique (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "consul",
+    "asked": 0,
+    "translation": "Consul (titre romain)",
+    "mistakes": 0,
+    "latinComplet": "consul, consulis, m. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "consulo +ACC",
+    "asked": 0,
+    "translation": "Consulter (quelqu'un)",
+    "mistakes": 0,
+    "latinComplet": "consulo, consulis, consulere, consului, consultum (+Acc.)",
+    "type": "adverb"
+  },
+  {
+    "question": "consulo +DAT",
+    "asked": 0,
+    "translation": "Prendre conseil (auprès de quelqu'un)",
+    "mistakes": 0,
+    "latinComplet": "consulo, consulis, consulere, consului, consultum (+Dat.)",
+    "type": "adverb"
+  },
+  {
+    "question": "circum +ACC",
+    "asked": 0,
+    "translation": "Autour de",
+    "mistakes": 0,
+    "latinComplet": "circum (Préposition + Accusatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "cito",
+    "asked": 0,
+    "translation": "Vite, Rapidement",
+    "mistakes": 0,
+    "latinComplet": "cito (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "clarus",
+    "asked": 0,
+    "translation": "Clair, Célèbre",
+    "mistakes": 0,
+    "latinComplet": "clarus, clara, clarum",
+    "type": "adverb"
+  },
+  {
+    "question": "cogitatio",
+    "asked": 0,
+    "translation": "Réflexion, Pensée",
+    "mistakes": 0,
+    "latinComplet": "cogitatio, cogitationis, f. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "collega",
+    "asked": 0,
+    "translation": "Collègue",
+    "mistakes": 0,
+    "latinComplet": "collega, collegae, m. (1re déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "concilium",
+    "asked": 0,
+    "translation": "Conseil, Assemblée",
+    "mistakes": 0,
+    "latinComplet": "concilium, concilii, n. (2e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "concipio",
+    "asked": 0,
+    "translation": "Concevoir, Imaginer",
+    "mistakes": 0,
+    "latinComplet": "concipio, concipis, concipere, concepi, conceptum",
+    "type": "adverb"
+  },
+  {
+    "question": "conditor",
+    "asked": 0,
+    "translation": "Fondateur",
+    "mistakes": 0,
+    "latinComplet": "conditor, conditoris, m. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "consulo +DAT",
+    "asked": 0,
+    "translation": "Prendre conseil (auprès de quelqu'un)",
+    "mistakes": 0,
+    "latinComplet": "consulo, consulis, consulere, consului, consultum (+Dat.)",
+    "type": "adverb"
+  },
+  {
+    "question": "consulo +ACC",
+    "asked": 0,
+    "translation": "Consulter (quelqu'un)",
+    "mistakes": 0,
+    "latinComplet": "consulo, consulis, consulere, consului, consultum (+Acc.)",
+    "type": "adverb"
+  },
+  {
+    "question": "capio",
+    "asked": 0,
+    "translation": "Prendre",
+    "mistakes": 0,
+    "latinComplet": "capio, capis, capere, cepi, captum",
+    "type": "adverb"
+  },
+  {
+    "question": "apud +ACC",
+    "asked": 0,
+    "translation": "Chez, Près de",
+    "mistakes": 0,
+    "latinComplet": "apud (Préposition + Accusatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "auctoritas",
+    "asked": 0,
+    "translation": "Autorité",
+    "mistakes": 0,
+    "latinComplet": "auctoritas, auctoritatis, f. (3e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "aio",
+    "asked": 0,
+    "translation": "Dire Oui, Affirmer",
+    "mistakes": 0,
+    "latinComplet": "aio, ais, aiere, aiui, aitum",
+    "type": "adverb"
+  },
+  {
+    "question": "aliter",
+    "asked": 0,
+    "translation": "Autrement",
+    "mistakes": 0,
+    "latinComplet": "aliter (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "alius",
+    "asked": 0,
+    "translation": "Autre",
+    "mistakes": 0,
+    "latinComplet": "alius, alia, aliud",
+    "type": "adverb"
+  },
+  {
+    "question": "anima",
+    "asked": 0,
+    "translation": "Âme",
+    "mistakes": 0,
+    "latinComplet": "anima, animae, f. (1re déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "animus",
+    "asked": 0,
+    "translation": "Âme, Esprit",
+    "mistakes": 0,
+    "latinComplet": "animus, animi, m. (2e déclinaison)",
+    "type": "adverb"
+  },
+  {
+    "question": "ante +ACC",
+    "asked": 0,
+    "translation": "Avant, Devant",
+    "mistakes": 0,
+    "latinComplet": "ante (Préposition + Accusatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "antea",
+    "asked": 0,
+    "translation": "Auparavant, Avant cela",
+    "mistakes": 0,
+    "latinComplet": "antea (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "(ab) + ABL",
+    "asked": 0,
+    "translation": "De, Depuis, Par",
+    "mistakes": 0,
+    "latinComplet": "(ab) (Préposition + Ablatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "accedo",
+    "asked": 0,
+    "translation": "S'approcher, Accéder",
+    "mistakes": 0,
+    "latinComplet": "accedo, accedis, accedere, accessi, accessum",
+    "type": "adverb"
+  },
+  {
+    "question": "accido ut + SUBJ",
+    "asked": 0,
+    "translation": "Il arrive que, Il arrive de",
+    "mistakes": 0,
+    "latinComplet": "accido ut (+ Subj. : ut, utis, m. ou f. ; ut, udis, n.)",
+    "type": "adverb"
+  },
+  {
+    "question": "accipio",
+    "asked": 0,
+    "translation": "Recevoir",
+    "mistakes": 0,
+    "latinComplet": "accipio, accipis, accipere, accepi, acceptum",
+    "type": "adverb"
+  },
+  {
+    "question": "accurat",
+    "asked": 0,
+    "translation": "Avec soin, Précisément",
+    "mistakes": 0,
+    "latinComplet": "accurat (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "ad + ACC",
+    "asked": 0,
+    "translation": "À, Vers, Jusqu'à",
+    "mistakes": 0,
+    "latinComplet": "ad (Préposition + Accusatif)",
+    "type": "adverb"
+  },
+  {
+    "question": "addisco",
+    "asked": 0,
+    "translation": "Apprendre en plus, Apprendre en s'ajoutant",
+    "mistakes": 0,
+    "latinComplet": "addisco, addiscis, addiscere, addidici",
+    "type": "adverb"
+  },
+  {
+    "question": "addo",
+    "asked": 0,
+    "translation": "Ajouter, Adjoindre",
+    "mistakes": 0,
+    "latinComplet": "addo, addis, addere, addidi, additum",
+    "type": "adverb"
+  },
+  {
+    "question": "adeo",
+    "asked": 0,
+    "translation": "À tel point, Tellement",
+    "mistakes": 0,
+    "latinComplet": "adeo (Adverbe)",
+    "type": "adverb"
+  },
+  {
+    "question": "adipiscor",
+    "asked": 0,
+    "translation": "Obtenir, Atteindre",
+    "mistakes": 0,
+    "latinComplet": "adipiscor, adipisceris, adipisci, adeptus sum",
+    "type": "adverb"
+  },
+  {
+    "question": "aetas",
+    "asked": 0,
+    "translation": "Âge",
+    "mistakes": 0,
+    "latinComplet": "aetas, aetatis, f. (3e déclinaison)",
+    "type": "adverb"
+  }
+]
