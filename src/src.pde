@@ -29,7 +29,7 @@ void mouseMoved() {
 	vue.userMouseReleased(mouseX, mouseY);
 }
 
-void mouseClicked() {
+void mousePressed() {
 	vue.userMouseClicked(mouseX, mouseY);
 }
 

@@ -17,6 +17,8 @@ public class Vue {
     private int delta_H1   = 40;
     private int delta_H2   = 15;
     private int delta_box  = 15;
+    private int size_BtnNext = 20;
+    private int delta_XBtnValidate = 60;
     private int alphaMouseOver = 50;
 
     private color colorClearLight        = color(241, 222, 222);     // Misty Rose
@@ -35,9 +37,11 @@ public class Vue {
     private PVector pos_Question;
     private PVector pos_Answer1;
     private PVector pos_Answer2;
+    private PVector pos_BtnNext;
     private PVector size_ModeSelector;
     private String titlePage;
     private int x,y;
+    private int practiceStep;
 
     public Vue () {
 	    controler = new Controler();
@@ -45,6 +49,7 @@ public class Vue {
         resize(width, height);
         x = 0;
         y = 0;
+        practiceStep = 0;
     }
 
     public void resize(int w, int h){
@@ -56,10 +61,19 @@ public class Vue {
         this.pos_Question       = new PVector(w/2, 5*h/15);
         this.pos_Answer1        = new PVector(w/2, 7*h/15);
         this.pos_Answer2        = new PVector(w/2, 8*h/15);
+        this.pos_BtnNext        = new PVector(w/2, 13*h/15);
     }
 
     public void loadVue(ViewType view){
         this.view = view; 
+        if (view == ViewType.InfiniteMode || view == ViewType.TimedMode || view == ViewType.MistakeWork || view == ViewType.AllWordsOnce){
+            controler.initIndexModel(view);
+            controler.nextElementsTest(view);
+            controler.getTest();
+        }
+        if (view == ViewType.SelectMode){
+            practiceStep = 0;
+        }
     }
 
 /*                                                                     
@@ -82,6 +96,7 @@ public class Vue {
                 char lowerInput = Character.toLowerCase(input); // Convertir en minuscules
                 println("input: "+lowerInput);
                 switch (lowerInput) {
+                    default :
                     case 'e' : 
                         loadVue(ViewType.InfiniteMode);
                         break;
@@ -93,9 +108,6 @@ public class Vue {
                         break;
                     case 't' : 
                         loadVue(ViewType.AllWordsOnce);
-                        break;
-                    default :
-                        loadVue(ViewType.InfiniteMode);
                         break;
                 }
                 break; 
@@ -171,6 +183,47 @@ public class Vue {
                     loadVue(ViewType.AllWordsOnce);
                 }
                 break;
+            case InfiniteMode :
+                PVector TL = new PVector(pos_BtnNext.x - size_BtnNext, pos_BtnNext.y - size_BtnNext);
+                PVector BR = new PVector(pos_BtnNext.x + size_BtnNext, pos_BtnNext.y + size_BtnNext);
+
+                if (x > TL.x &&
+                    x < BR.x &&
+                    y > TL.y &&
+                    y < BR.y &&
+                    practiceStep <= 1) 
+                {
+                    nextStepComute();
+                }
+                if (practiceStep == 2) {
+                    PVector TLa = new PVector(pos_BtnNext.x - size_BtnNext - delta_XBtnValidate, pos_BtnNext.y - size_BtnNext);
+                    PVector BRa = new PVector(pos_BtnNext.x + size_BtnNext - delta_XBtnValidate, pos_BtnNext.y + size_BtnNext);
+
+                    if (x > TLa.x &&
+                        x < BRa.x &&
+                        y > TLa.y &&
+                        y < BRa.y)
+                    {
+                        controler.testSuccec();
+                        controler.nextElementsTest(view);
+                        controler.getTest();
+                        nextStepComute();
+                    }
+                    // NO Fail
+                    PVector TLb = new PVector(pos_BtnNext.x - size_BtnNext + delta_XBtnValidate, pos_BtnNext.y - size_BtnNext);
+                    PVector BRb = new PVector(pos_BtnNext.x + size_BtnNext + delta_XBtnValidate, pos_BtnNext.y + size_BtnNext);
+                    if (x > TLb.x &&
+                        x < BRb.x &&
+                        y > TLb.y &&
+                        y < BRb.y) 
+                    {
+                        controler.testFail();
+                        controler.nextElementsTest(view);
+                        controler.getTest();
+                        nextStepComute();
+                    }
+                }
+                break;
         }
     }
 /*                                                                     
@@ -191,19 +244,27 @@ ______                       __                  _   _
             case SelectMode : 
                 drawSelectModePage();
                 break;
+            case TimedMode : 
+                drawTimer(); 
+            case MistakeWork : 
+            case AllWordsOnce : 
+                break;
             case InfiniteMode : 
                 drawTitlePage("Entrainement");
+                drawBackwardButton();
+                if (practiceStep >= 0) {
+                    drawQuestion(controler.getQuestion());
+                }
+                if (practiceStep >= 1) {
+                    drawAnswer1(controler.getAnswer1());
+                }
+                if (practiceStep >= 2) {
+                    drawAnswer2(controler.getAnswer2());
+                    drawFinalStepButton();
+                }
+                if (practiceStep < 2)
+                    drawNextStepButton();
                 break;
-            case TimedMode : 
-                drawTitlePage("Contre la montre");
-                break;
-            case MistakeWork : 
-                drawTitlePage("Révisions");
-                break;
-            case AllWordsOnce : 
-                drawTitlePage("Tous les mots");
-                break;
-
         }
     }
 
@@ -234,7 +295,7 @@ ______                       __                  _   _
         strokeWeight(3);
         textAlign(CENTER, CENTER);
         stroke(colorClearHighlight);
-
+        // TODO factoriser
         // Entrainement
         int p = 0;
         fill(colorClearEmphasis);
@@ -342,5 +403,74 @@ ______                       __                  _   _
         textAlign(CENTER, CENTER);
         fill(colorClearDark);
         text(s, pos_Answer2.x, pos_Answer2.y);
+    }
+
+    private void drawNextStepButton(){ 
+        PVector TL = new PVector(pos_BtnNext.x - size_BtnNext, pos_BtnNext.y - size_BtnNext);
+        PVector BR = new PVector(pos_BtnNext.x + size_BtnNext, pos_BtnNext.y + size_BtnNext);
+
+        stroke(colorClearDark);
+        fill(colorClearDark);
+        textSize(sizeTypoH3);
+        text("Next", pos_BtnNext.x, pos_BtnNext.y);
+        if (x > TL.x &&
+            x < BR.x &&
+            y > TL.y &&
+            y < BR.y) {
+                fill(colorClearDark,alphaMouseOver);
+        }
+        else {
+            fill(colorClearDark,0);
+        }
+        rect(pos_BtnNext.x, pos_BtnNext.y, 2*size_BtnNext, 2* size_BtnNext);
+    }
+    private void drawFinalStepButton(){
+        // YES Succec
+        PVector TLa = new PVector(pos_BtnNext.x - size_BtnNext - delta_XBtnValidate, pos_BtnNext.y - size_BtnNext);
+        PVector BRa = new PVector(pos_BtnNext.x + size_BtnNext - delta_XBtnValidate, pos_BtnNext.y + size_BtnNext);
+
+        stroke(colorClearDark);
+        fill(colorClearDark);
+        textSize(sizeTypoH3);
+        text("Yes", pos_BtnNext.x - delta_XBtnValidate, pos_BtnNext.y);
+        if (x > TLa.x &&
+            x < BRa.x &&
+            y > TLa.y &&
+            y < BRa.y) {
+                fill(colorClearDark,alphaMouseOver);
+        }
+        else {
+            fill(colorClearDark,0);
+        }
+        rect(pos_BtnNext.x - delta_XBtnValidate, pos_BtnNext.y, 2*size_BtnNext, 2* size_BtnNext);
+
+        // NO Fail
+        PVector TLb = new PVector(pos_BtnNext.x - size_BtnNext + delta_XBtnValidate, pos_BtnNext.y - size_BtnNext);
+        PVector BRb = new PVector(pos_BtnNext.x + size_BtnNext + delta_XBtnValidate, pos_BtnNext.y + size_BtnNext);
+
+        stroke(colorClearDark);
+        fill(colorClearDark);
+        textSize(sizeTypoH3);
+        text("Yes", pos_BtnNext.x + delta_XBtnValidate, pos_BtnNext.y);
+        if (x > TLb.x &&
+            x < BRb.x &&
+            y > TLb.y &&
+            y < BRb.y) {
+                fill(colorClearDark,alphaMouseOver);
+        }
+        else {
+            fill(colorClearDark,0);
+        }
+        rect(pos_BtnNext.x + delta_XBtnValidate, pos_BtnNext.y, 2*size_BtnNext, 2* size_BtnNext);
+    }
+    private void drawBackwardButton(){
+        // TODO drawBackwardButton
+    }
+    private void drawTimer(){
+        // TODO drawTimer
+    }
+
+    private void nextStepComute(){
+        practiceStep = (practiceStep+1)%3;
     }
 }
