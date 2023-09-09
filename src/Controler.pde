@@ -45,6 +45,7 @@ public class Controler {
     }
     public void getTest(){
         test = model.getObjectOfIndex(nextIndex);
+        model.setAskedOfIndex(nextIndex);
     }
 
     public String getQuestion(){
@@ -60,9 +61,9 @@ public class Controler {
         return nextIndex;
     }
     public void testSuccec(){
-        // Ce qu'on doit faire quand le teste est un succes
+        
     }
     public void testFail(){
-        // Ce qu'on doit faire quand le teste est un echec
+        model.setMistakesOfIndex(nextIndex);
     }
 }

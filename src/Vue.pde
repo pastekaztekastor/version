@@ -196,6 +196,7 @@ public class Vue {
                     nextStepComute();
                 }
                 if (practiceStep == 2) {
+                    // YES succes
                     PVector TLa = new PVector(pos_BtnNext.x - size_BtnNext - delta_XBtnValidate, pos_BtnNext.y - size_BtnNext);
                     PVector BRa = new PVector(pos_BtnNext.x + size_BtnNext - delta_XBtnValidate, pos_BtnNext.y + size_BtnNext);
 
@@ -451,7 +452,7 @@ ______                       __                  _   _
         stroke(colorClearDark);
         fill(colorClearDark);
         textSize(sizeTypoH3);
-        text("Yes", pos_BtnNext.x + delta_XBtnValidate, pos_BtnNext.y);
+        text("No", pos_BtnNext.x + delta_XBtnValidate, pos_BtnNext.y);
         if (x > TLb.x &&
             x < BRb.x &&
             y > TLb.y &&
@@ -464,7 +465,25 @@ ______                       __                  _   _
         rect(pos_BtnNext.x + delta_XBtnValidate, pos_BtnNext.y, 2*size_BtnNext, 2* size_BtnNext);
     }
     private void drawBackwardButton(){
-        // TODO drawBackwardButton
+        /*
+        PVector TL = new PVector(pos_BtnNext.x - size_BtnNext, pos_BtnNext.y - size_BtnNext);
+        PVector BR = new PVector(pos_BtnNext.x + size_BtnNext, pos_BtnNext.y + size_BtnNext);
+
+        stroke(colorClearDark);
+        fill(colorClearDark);
+        textSize(sizeTypoH3);
+        text("Next", pos_BtnNext.x, pos_BtnNext.y);
+        if (x > TL.x &&
+            x < BR.x &&
+            y > TL.y &&
+            y < BR.y) {
+                fill(colorClearDark,alphaMouseOver);
+        }
+        else {
+            fill(colorClearDark,0);
+        }
+        rect(pos_BtnNext.x, pos_BtnNext.y, 2*size_BtnNext, 2* size_BtnNext);
+        */
     }
     private void drawTimer(){
         // TODO drawTimer
